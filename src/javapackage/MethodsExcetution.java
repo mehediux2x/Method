@@ -7,10 +7,10 @@ public class MethodsExcetution {
         Methods methods = new Methods();
         methods.testMethod01();
 
-        //System.out.println(methods.a);
+        System.out.println(methods.a);
 
-        String c = methods.a;
-        System.out.println(c);
+        //String c = methods.a;
+        //System.out.println(c);
 
 
     }
